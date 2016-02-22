@@ -2,15 +2,16 @@
     <channel>
         <title><![CDATA[r037]]></title>
         <description><![CDATA[r037]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/r037/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 21:26:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 22 Feb 2016 21:32:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/r037/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <link>undefined7c891553-d4f2-4d81-b837-8adcda3919f6/index.html</link>
+            <title><![CDATA[First post ever]]></title>
+            <description><![CDATA[<article><h1>First post ever</h1><p>This is a test post for r037 using the grid. A new "intelligent" way of making websites. Behind the grid there's an AI that should be able to arrange these posts in the most pleasingly way possible. I'll use it for a regular site, a portfolio and our new parkerkent.com creative design team.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3a7c20915056f4f18f40eb119737cd83b21619eb.jpg"></article>]]></description>
+            <link>https://thegrid.ai/r037/7c891553-d4f2-4d81-b837-8adcda3919f6/index.html</link>
             <guid isPermaLink="false">7c891553-d4f2-4d81-b837-8adcda3919f6</guid>
-            <pubDate>Mon, 22 Feb 2016 21:26:52 GMT</pubDate>
+            <pubDate>Mon, 22 Feb 2016 21:31:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
