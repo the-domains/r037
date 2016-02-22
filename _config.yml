@@ -1,6 +1,6 @@
 name: r037
 favicon: null
-layout_spectrum: 0.2936447844840586
+layout_spectrum: 1
 typography_spectrum: 0.7490411400794983
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.26597577263601124
-  lightness: 0.10859935847111046
-  saturation: 0.46353093604557216
-  rhythmicContrast: 0.8624563843477517
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
